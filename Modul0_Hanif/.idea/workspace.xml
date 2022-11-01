@@ -5,6 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bcdd9c1-035e-467f-bfd9-189aa83e1980" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/AppConfigurationIOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/InstanceBySpringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/ManualInstantApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/SetterBasedInjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/model/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/serviceimpl/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/java/com/belajar/belajarspring/serviceimpl/SMSService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../belajarSpring/src/test/java/com/belajar/belajarspring/BelajarSpringApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1666439983510</updated>
       <workItem from="1666439987021" duration="929000" />
+      <workItem from="1666579521648" duration="16000" />
+      <workItem from="1667289631278" duration="41000" />
     </task>
     <servers />
   </component>
