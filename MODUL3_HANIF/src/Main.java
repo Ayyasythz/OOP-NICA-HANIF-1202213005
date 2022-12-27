@@ -56,14 +56,16 @@ public class Main {
                         continue;
                 }
                 repeat = false;
-
             }catch (InputMismatchException e){
                 System.out.println("==== Error : Input must be a number ====");
+                in.next();
             }catch (IllegalArgumentException e){
                 System.out.println();
                 System.out.println(e.toString());;
                 System.out.println();
             }
+
+
         }while (repeat);
         in.close();
     }
